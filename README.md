@@ -34,7 +34,7 @@ git clone <repo-url>
 ```bash
 PORT=9000
 DATABASE=YOUR_MONGO_URL
-JWT_SECRET=fidbfbFCDSm1558
+JWT_SECRET=
 ```
 ## 3. Install dependencies (frontend - backend)
 ```bash
