@@ -27,7 +27,7 @@ This is a Full Stack job search application developed using the MERN stack (Mong
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Ilyas-00/JobBoard.git
 ```
 ### 2. Environment Variables
 -  Create a .env file with the following variables:
